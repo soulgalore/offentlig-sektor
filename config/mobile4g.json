@@ -34,5 +34,11 @@
     "screenshot": {
       "type": "jpg"
     },
-    "mobile": true
+    "mobile": true,
+    "axe": {
+      "enable": true
+    },
+    "sustainable": {
+      "enable": true
+    }
   }
