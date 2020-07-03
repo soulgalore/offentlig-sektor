@@ -1,0 +1,6 @@
+{
+    "extends": "/config/secretsCrux.json",
+    "plugins": {
+      "remove": "browsertime"
+    }
+}
