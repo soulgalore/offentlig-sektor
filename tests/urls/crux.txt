@@ -1,4 +1,3 @@
-
 https://forsakringskassan.se
 https://skatteverket.se
 https://www.pensionsmyndigheten.se
@@ -29,3 +28,16 @@ https://www.regionvarmland.se
 https://www.regiondalarna.se
 https://www.pts.se
 https://www.val.se
+https://www.kammarkollegiet.se
+https://arn.se
+https://arbetsformedlingen.se
+https://www.datainspektionen.se
+https://konkurrensverket.se
+https://www.lantmateriet.se
+https://www.lakemedelsverket.se
+https://www.migrationsverket.se
+https://naturvardsverket.se
+https://www.vinnova.se
+https://www.tullverket.se
+https://skr.se
+https://www.lansstyrelsen.se
