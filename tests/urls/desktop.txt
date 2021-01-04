@@ -44,6 +44,7 @@ https://www.tullverket.se
 https://skr.se
 https://www.lansstyrelsen.se
 https://www.inera.se
+https://www.imy.se
 https://www.1177.se/sjukdomar--besvar/infektioner/ovanliga-infektioner/covid-19-coronavirus/
 https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/
 https://www.msb.se/sv/aktuellt/pagaende-handelser-och-insatser/msbs-arbete-med-anledning-av-coronaviruset/
