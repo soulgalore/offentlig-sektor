@@ -41,3 +41,4 @@ https://www.vinnova.se
 https://www.tullverket.se
 https://skr.se
 https://www.lansstyrelsen.se
+https://www.inera.se
