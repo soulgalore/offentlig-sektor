@@ -36,5 +36,8 @@
     },
     "sustainable": {
       "enable": true
+    },
+    "thirdParty": {
+      "cpu": true
     }
   }
